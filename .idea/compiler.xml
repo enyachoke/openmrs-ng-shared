@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.emm.openmrs-ng-shared.main" target="1.8" />
+      <module name="com.emm.openmrs-ng-shared.test" target="1.8" />
+      <module name="com.emmanuel.openmrs-ng-shared.main" target="1.8" />
+      <module name="com.emmanuel.openmrs-ng-shared.test" target="1.8" />
+      <module name="com.emmanuelnyachoke.openm.openmrs-ng-shared.main" target="1.8" />
+      <module name="com.emmanuelnyachoke.openm.openmrs-ng-shared.test" target="1.8" />
+      <module name="com.emmanuelnyachoke.openmrs-ng-shared.main" target="1.8" />
+      <module name="com.emmanuelnyachoke.openmrs-ng-shared.test" target="1.8" />
+      <module name="openmrs-ng-shared.main" target="1.8" />
+      <module name="openmrs-ng-shared.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
